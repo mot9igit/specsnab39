@@ -1,0 +1,41 @@
+<svg id="5355a130-b4fc-419b-b9b7-fee0a6513c2f" xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink" width="76.78797" height="59.75109"
+                viewBox="0 0 76.78797 59.75109">
+                <defs>
+                  <linearGradient id="09860043-49b1-4e4f-809b-bac57b9b9898" x1="53.54751" y1="30.93757" x2="76.78797"
+                    y2="30.93757" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#c2c658" />
+                    <stop offset="1" stop-color="#95ad62" />
+                  </linearGradient>
+                </defs>
+                <title>444</title>
+                <rect x="7.8304" y="0.5" width="45.33538" height="46.27806" style="fill: #fff" />
+                <g>
+                  <polyline points="53.079 46.922 53.079 15 53.079 0.5 7.697 0.5 7.697 21.07"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="53.0794" y1="27.55825" x2="64.18677" y2="27.55825"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <circle cx="21.15818" cy="53.11429" r="6.1368"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <polyline points="10.95 46.922 10.95 52.545 15.021 52.545"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="27.29499" y1="52.54461" x2="57.38254" y2="52.54461"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <polyline points="69.656 52.545 73.523 52.545 73.523 46.977"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <circle cx="63.51934" cy="53.11429" r="6.1368"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <polyline
+                    points="7.697 38.999 7.697 46.922 76.174 46.922 76.174 32.431 69.403 27.558 63.519 15 53.079 15"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line y1="27.55928" x2="22.73658" y2="27.55928"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="3.2401" y1="34.04671" x2="19.45946" y2="34.04671"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <polygon
+                    points="53.59 14.389 63.9 14.389 69.896 27.136 76.788 32.056 76.788 47.487 53.548 47.487 53.59 14.389"
+                    style="fill: url(#09860043-49b1-4e4f-809b-bac57b9b9898)" />
+                  <line x1="61.15415" y1="27.55928" x2="52.43638" y2="27.55928"
+                    style="fill: none;stroke: #fff;stroke-miterlimit: 10" />
+                </g>
+              </svg>

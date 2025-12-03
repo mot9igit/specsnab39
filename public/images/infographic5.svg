@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61.77078"
+                height="75.01212" viewBox="0 0 61.77078 75.01212">
+                <defs>
+                  <linearGradient id="58a5239f-a710-416e-980f-852995ab4114" x1="20.10701" y1="24.50976" x2="40.34933"
+                    y2="24.50976" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#c2c658" />
+                    <stop offset="1" stop-color="#95ad62" />
+                  </linearGradient>
+                </defs>
+                <g>
+                  <rect x="10.66498" y="34.02747" width="20.24232" height="20.24232"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <polyline points="17.566 34.027 17.566 41.98 20.786 39.68 23.919 41.98 23.919 34.027"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <rect x="30.9073" y="34.02747" width="20.24232" height="20.24232"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <polyline points="37.808 34.027 37.808 41.98 41.028 39.68 44.161 41.98 44.161 34.027"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <rect x="0.5" y="54.26979" width="20.24232" height="20.24232"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <polyline points="7.401 54.27 7.401 62.222 10.621 59.922 13.754 62.222 13.754 54.27"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <rect x="20.74232" y="54.26979" width="20.24232" height="20.24232"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <polyline points="27.643 54.27 27.643 62.222 30.863 59.922 33.996 62.222 33.996 54.27"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <rect x="41.02846" y="54.26979" width="20.24232" height="20.24232"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <polyline points="47.929 54.27 47.929 62.222 51.15 59.922 54.282 62.222 54.282 54.27"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="14.78354" y1="23.24909" x2="6.99551" y2="23.24909"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="53.4444" y1="23.24909" x2="45.65637" y2="23.24909"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="49.34284" y1="7.09154" x2="43.71097" y2="12.47072"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="11.4856" y1="7.09154" x2="17.11747" y2="12.47072"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="30.9073" x2="30.9073" y2="7.78804" style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <rect x="20.10701" y="14.3886" width="20.24232" height="20.24232"
+                    style="fill: url(#58a5239f-a710-416e-980f-852995ab4114)" />
+                  <polyline points="27.008 14.389 27.008 22.341 30.228 20.041 33.361 22.341 33.361 14.389"
+                    style="fill: none;stroke: #fff;stroke-miterlimit: 10" />
+                </g>
+              </svg>

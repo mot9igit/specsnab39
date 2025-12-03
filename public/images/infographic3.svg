@@ -1,0 +1,81 @@
+<svg id="ba988bfa-0451-4b5e-a6cd-5b0c8e0b8f92" xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink" width="73.63617" height="71.67813"
+                viewBox="0 0 73.63617 71.67813">
+                <defs>
+                  <linearGradient id="26440948-ad2c-481b-8fba-6605c3be3a2f" y1="14.65506" x2="52.18748" y2="14.65506"
+                    gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#c2c658" />
+                    <stop offset="1" stop-color="#95ad62" />
+                  </linearGradient>
+                </defs>
+                <rect x="1.06159" y="9.70834" width="51" height="36.27806" style="fill: #fff" />
+                <g>
+                  <polyline points="51.601 21.64 51.601 8.132 0.602 8.132 0.602 45.623 28.583 45.623"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <ellipse cx="43.65842" cy="46.93253" rx="11.66422" ry="4.75528"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <ellipse cx="61.47196" cy="27.95712" rx="11.66422" ry="4.75528"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <path
+                    d="M55.32264,66.42285c0,2.62627-5.22225,4.75528-11.66422,4.75528s-11.66422-2.129-11.66422-4.75528"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="31.99421" y1="46.93253" x2="31.99421" y2="66.42285"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="55.32264" y1="46.93253" x2="55.32264" y2="66.42285"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <path d="M55.32264,59.766c0,2.62627-5.22225,4.75528-11.66422,4.75528s-11.66422-2.129-11.66422-4.75528"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <path
+                    d="M55.32264,54.05608c0,2.62627-5.22225,4.75528-11.66422,4.75528s-11.66422-2.129-11.66422-4.75528"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="49.80774" y1="27.95712" x2="49.80774" y2="40.86783"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="73.10658" y1="27.63513" x2="73.10658" y2="60.44028"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <path
+                    d="M73.13617,60.44028c0,2.62627-5.22225,4.75528-11.66422,4.75528a26.89067,26.89067,0,0,1-4.54023-.37369"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <path
+                    d="M73.13617,34.72439c0,2.62627-5.22225,4.75528-11.66422,4.75528s-11.66422-2.129-11.66422-4.75528"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <path
+                    d="M73.13617,40.86783c0,2.62627-5.22225,4.75528-11.66422,4.75528a26.89067,26.89067,0,0,1-4.54023-.37369"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <path
+                    d="M73.13617,47.462c0,2.62627-5.22225,4.75528-11.66422,4.75528a26.89067,26.89067,0,0,1-4.54023-.37369"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <path
+                    d="M73.13617,53.614c0,2.62627-5.22225,4.75528-11.66422,4.75528a26.89067,26.89067,0,0,1-4.54023-.37369"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="11.76705" y1="8.13221" x2="11.76705"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="40.29872" y1="8.13221" x2="40.29872"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <rect y="7.53858" width="52.18748" height="14.23295"
+                    style="fill: url(#26440948-ad2c-481b-8fba-6605c3be3a2f)" />
+                  <line x1="6.8165" y1="19.43913" x2="13.57038" y2="19.43913"
+                    style="fill: none;stroke: #fff;stroke-miterlimit: 10" />
+                  <line x1="17.39528" y1="19.43913" x2="24.14915" y2="19.43913"
+                    style="fill: none;stroke: #fff;stroke-miterlimit: 10" />
+                  <line x1="27.75581" y1="19.43913" x2="34.50968" y2="19.43913"
+                    style="fill: none;stroke: #fff;stroke-miterlimit: 10" />
+                  <line x1="38.4255" y1="19.43913" x2="45.17937" y2="19.43913"
+                    style="fill: none;stroke: #fff;stroke-miterlimit: 10" />
+                  <line x1="6.8165" y1="27.50243" x2="13.57038" y2="27.50243"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="17.39528" y1="27.50243" x2="24.14915" y2="27.50243"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="27.75581" y1="27.50243" x2="34.50968" y2="27.50243"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="38.4255" y1="27.50243" x2="45.17937" y2="27.50243"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="6.8165" y1="34.73872" x2="13.57038" y2="34.73872"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="17.39528" y1="34.73872" x2="24.14915" y2="34.73872"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="27.75581" y1="34.73872" x2="34.50968" y2="34.73872"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  <line x1="38.4255" y1="34.73872" x2="45.17937" y2="34.73872"
+                    style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                </g>
+              </svg>

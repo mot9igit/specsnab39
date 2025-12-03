@@ -1,0 +1,51 @@
+<svg id="18691b71-846b-4b82-b728-c92ef26d3884" xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink" width="89.19714" height="72.99799"
+                viewBox="0 0 89.19714 72.99799">
+                <defs>
+                  <linearGradient id="7b8b4eae-c459-4893-9eda-c7cd1b0dcfda" x1="33.1161" y1="11.82419" x2="82.82165"
+                    y2="11.82419" gradientTransform="translate(-1.12678 9.01243) rotate(-8.80468)"
+                    gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#c2c658" />
+                    <stop offset="1" stop-color="#95ad62" />
+                  </linearGradient>
+                </defs>
+                <polygon points="21.22 31.463 20.481 29.189 28.793 24.113 35.481 31.855 21.22 31.463"
+                  style="fill: #fff" />
+                <polygon points="20.691 30.413 20.064 27.845 27.114 22.113 32.786 30.855 20.691 30.413"
+                  style="fill: #fff" />
+                <polygon points="21.691 29.413 21.064 26.845 28.114 21.113 33.786 29.855 21.691 29.413"
+                  style="fill: #fff" />
+                <polygon points="19.691 27.413 19.064 24.845 26.114 19.113 31.786 27.855 19.691 27.413"
+                  style="fill: #fff" />
+                <g>
+                  <g>
+                    <rect x="34.10041" y="3.55603" width="47.73692" height="16.53632"
+                      transform="translate(2.493 -8.73376) rotate(8.80468)"
+                      style="fill: url(#7b8b4eae-c459-4893-9eda-c7cd1b0dcfda)" />
+                    <line x1="34.38168" y1="8.17073" x2="30.21924" y2="7.526"
+                      style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                    <path
+                      d="M81.55607,15.47765s8.28146,1.23011,7.00793,9.45222-9.53112,6.83784-9.53112,6.83784L62.7428,29.24458s-7.2812-1.2331-8.22043,4.83071L53.24882,42.2974"
+                      style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                    <rect x="46.15115" y="42.1393" width="10.0882" height="26.83252"
+                      transform="translate(9.10699 -7.1816) rotate(8.80468)"
+                      style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                    <line x1="43.08283" y1="9.51846" x2="34.38168" y2="8.17073"
+                      style="fill: none;stroke: #fff;stroke-miterlimit: 10" />
+                  </g>
+                  <g>
+                    <polygon points="42.11 40.293 16.708 58.033 11.253 50.811 36.656 33.07 42.11 40.293"
+                      style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                    <polygon
+                      points="19.064 24.037 26.114 19.113 36.591 32.985 11.189 50.726 0.712 36.854 4.962 33.885 9.208 37.461 6.93 32.511 14.855 26.976 21.03 30.952 19.064 24.037"
+                      style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                    <polygon points="34.62 51.205 29.817 54.56 27.005 50.838 31.809 47.483 34.62 51.205"
+                      style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                    <polyline points="38.361 70.61 27.519 56.254 36.97 49.653 45.197 60.546"
+                      style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                    <path
+                      d="M48.28112,68.68066a5.87673,5.87673,0,0,1-6.50953,3.74051A6.05049,6.05049,0,0,1,38.218,70.50991"
+                      style="fill: none;stroke: #444;stroke-miterlimit: 10" />
+                  </g>
+                </g>
+              </svg>
