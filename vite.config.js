@@ -26,8 +26,8 @@ export default defineConfig({
         input: {
           // main: resolve(__dirname, "src/js/main.js"),
           // style: resolve(__dirname, "src/styles/global.scss"),
-          // index: resolve(__dirname, "index.html"),
-          // home: resolve(__dirname, "pages/home.html"),
+          index: resolve(__dirname, "index.html"),
+          tools: resolve(__dirname, "src/pages/tools.html"),
           // category: resolve(__dirname, "pages/category.html"),
           // product_card: resolve(__dirname, "pages/product_card.html"),
         },
