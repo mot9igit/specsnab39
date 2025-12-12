@@ -198,6 +198,20 @@ jQuery(document).ready(function ($) {
 
         });
 
+        $('.slider_mob').slick({
+            dots: false,
+            arrows: false,
+            autoplay: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            pauseOnHover: false,
+            autoplaySpeed: 4000,
+            fade: true,
+            infinite: true,
+            cssEase: 'linear',
+            adaptiveHeight: true
+        });
+
         $('.block_slider_mob').slick({
             dots: false,
             arrows: false,
